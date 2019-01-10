@@ -1,4 +1,4 @@
-# Readynas Aria2 KodExplorer Applications 
+# Readynas KodExplorer Applications 
 KodExplorer for Netgear Readynas 是运行在网件ReadyNas机上基于PHP的私有云存储服务。
 App内部集成KOD可道云（v4.37, 2018-11-28），支持在线升级。
 
