@@ -1,0 +1,12 @@
+Source: kodexplorer
+Section: contrib
+Priority: extra
+Maintainer: bbis <bbis@cheen.cn>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 4.37
+Homepage: https://kodcloud.com
+
+Package: kodexplorer
+Architecture: all
+Depends: ${misc:Depends}, readynasos (>= 6.0.5~T1271), libevent-2.0-5 (>= 2.0), libapache2-mod-php5 (>= 5.4~), php5 (>= 5.4~), php5-gd (>= 5.4~), php5-curl(>= 5.4~)
+Description:KodExplorer is a file manager for web. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run KodExplorer either online or locally,on Linux, Windows or Mac based platforms.

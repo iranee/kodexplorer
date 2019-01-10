@@ -1,0 +1,14 @@
+<Application resource-id="kodexplorer"><!-- 'resource-id' must be AppName -->
+  <AppID>SUPERPOUSSIN_GENIEAPP_04037</AppID>
+  <Category>APP_CAT_NETWORK_OTHER</Category>
+  <Name>KodExplorer</Name><!-- Any desciptive name, upto 48 chars -->
+  <Author>bbis</Author><!-- Authers name. upto 48 chars -->
+  <Version>4.37</Version><!-- Version -->
+  <RequireReboot>1</RequireReboot><!-- If non-zero, it indicate reboot is required. -->
+  <ConfigURL></ConfigURL><!-- 'localhost' will be replaced by framework JS. -->
+  <LaunchURL>http://localhost:3300/</LaunchURL><!-- 'localhost' will be replaced by framework JS. -->
+  <ReservePort>3300</ReservePort>
+  <DebianPackage>kodexplorer</DebianPackage>
+  <ServiceName/><!-- no service required -->
+  <Description lang="zh-cn">可道云KodExplorer提供私有云存储/企业网盘/企业云盘和在线文档管理解决方案，助力企业实现办公协作、Office在线编辑、安全存储访问和组织权限控制。</Description>
+</Application>
