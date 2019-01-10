@@ -25,4 +25,4 @@ App内部集成KOD可道云（v4.37, 2018-11-28），支持在线升级。
 * 3， 选择上传并安装应用程序
 ![安装图解](https://github.com/iranee/kodexplorer/blob/master/install.jpg)
 
-![安装图解](https://github.com/iranee/kodexplorer/blob/master/ui.png)
+![安装图解](https://github.com/iranee/kodexplorer/blob/master/ui.jpg)
