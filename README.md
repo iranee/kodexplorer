@@ -1,7 +1,7 @@
 # Readynas KodExplorer Applications 
 KodExplorer for Netgear Readynas 是运行在网件ReadyNas机上基于PHP的私有云存储服务。
 
-App内部集成KoExplorer（v4.40, 2019-03-21），支持在线升级。
+App内部集成KodExplorer（v4.40, 2019-03-21），支持在线升级。
 
 
 * 支持以下ReadyNAS存储设备：
